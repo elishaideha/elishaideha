@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Elisha Ideha</h1>
-<h3 align="center">A skilled frontend developer with a strong background in building responsive, user-friendly, and visually appealing web applications. Experienced in modern JavaScript frameworks, UI/UX best practices, and performance optimization. Passionate about turning complex ideas into seamless digital experiences.</h3>
+<h1 >Hi 👋, I'm Elisha Ideha</h1>
+<p> Fronted Developer | Website Developer </p> 
+<h3 >A skilled frontend developer with a strong background in building responsive, user-friendly, and visually appealing web applications. Experienced in modern JavaScript frameworks, UI/UX best practices, and performance optimization. Passionate about turning complex ideas into seamless digital experiences.</h3>
 
 - 📫 You can contact me on **elishaideha14@gmail.com**
 
