@@ -1,6 +1,6 @@
 <h1 >Hi, My name is Elisha Ideha</h1>
 <h2> Fronted Developer | Website Developer </h2> 
-<h3 >A skilled frontend developer with a strong background in building responsive, user-friendly, and visually appealing web applications. Experienced in modern JavaScript frameworks, UI/UX best practices, and performance optimization. Passionate about turning complex ideas into seamless digital experiences.</h3>
+<h4 >A skilled frontend developer with a strong background in building responsive, user-friendly, and visually appealing web applications. Experienced in modern JavaScript frameworks, UI/UX best practices, and performance optimization. Passionate about turning complex ideas into seamless digital experiences.</h4>
 
 - 👨‍💻 Front end developer sharing my journey and learnings in tech.
 - 🤝 I'm open to collaborating on any Fullstack development.
@@ -8,7 +8,7 @@
 - 📫 You can contact me on **elishaideha14@gmail.com**
 - ⚡ Fun fact **I love games and books**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
 <p align="left" dir="auto">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="max-width: 100%; height: auto; max-height: 36px;"></a>
