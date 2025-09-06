@@ -1,5 +1,5 @@
 <h1 >Hi, My name is Elisha Ideha</h1>
-<h2> Fronted Developer | Website Developer </h2> 
+<h2> Frontend Developer | Website Developer </h2> 
 <h4 >A skilled frontend developer with a strong background in building responsive, user-friendly, and visually appealing web applications. Experienced in modern JavaScript frameworks, UI/UX best practices, and performance optimization. Passionate about turning complex ideas into seamless digital experiences.</h4>
 
 - 👨‍💻 Front end developer sharing my journey and learnings in tech.
