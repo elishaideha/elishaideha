@@ -33,6 +33,7 @@
 <a href="https://linkedin.com/in/eidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidh" height="30" width="40" /></a>
 </p>
 
+<p dir="auto"><b>My GitHub Stats</b></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elishaideha&show_icons=true&locale=en&layout=compact" alt="elishaideha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elishaideha&show_icons=true&locale=en" alt="elishaideha" /></p>
