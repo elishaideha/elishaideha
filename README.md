@@ -42,7 +42,11 @@
        alt="elishaideha" />
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elishaideha&" alt="elishaideha" /></p>
+<p>
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=elishaideha&theme=dark&background=2f2f2f" 
+       alt="elishaideha" />
+</p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elishaideha&show_icons=true&locale=en&layout=compact" alt="elishaideha" /></p>
 
